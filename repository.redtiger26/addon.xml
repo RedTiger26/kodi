@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.redtiger26" name="RedTiger26 EXPERIMENTAL Repository" version="1.0.0" provider-name="RedTiger26">
+	<extension point="xbmc.addon.repository" name="RedTiger26 EXPERIMENTAL Repository">
+		<info compressed="false">https://raw.githubusercontent.com/RedTiger26/kodi/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/RedTiger26/kodi/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/RedTiger26/kodi/master/zip/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>RedTiger26 EXPERIMENTAL Addons</summary>
+		<description>Serveral addons and scripts for Kodi, provided as-is, without any warranty.</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
